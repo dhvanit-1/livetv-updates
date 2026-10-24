@@ -1,0 +1,11 @@
+{
+    "versionCode":  10000,
+    "versionName":  "1.0.0",
+    "notes":  "Live TV 1.0.0, the first public release.",
+    "apk":  "live-tv.apk",
+    "sha256":  "1a03b614c6178c48fa890a838ba9f851fa64712508784bf856464bf05d9a5336",
+    "size":  1019440,
+    "sourcesVersion":  1,
+    "sourcesUrl":  "sources.json",
+    "sourcesSha256":  "c9aa961535b41589e0e070d36a091764a539e26633deb212394d22b30c495635"
+}
