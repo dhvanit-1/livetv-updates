@@ -5,7 +5,7 @@
     "apk":  "live-tv.apk",
     "sha256":  "b7f6eb46f912c5d47e6976ca6bed15cbd293b56483dac6a2088c46f656280f55",
     "size":  1020404,
-    "sourcesVersion":  3,
+    "sourcesVersion":  4,
     "sourcesUrl":  "sources.json",
-    "sourcesSha256":  "b67a100f40cd2ea8f55fe5c79af079de33c4eaa3636157b4605c6816c2c48708"
+    "sourcesSha256":  "919d7a4145a054bce8e580a71018342111f9a57b4e1803972556ef9ac7c7c56b"
 }

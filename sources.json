@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "mainRoot": null,
   "backupRoot": null,
   "blocked": [],
@@ -33,5 +33,10 @@
       ]
     }
   ],
-  "edit": []
+  "edit": [
+    {
+      "channel": "Colors Gujarati",
+      "status": "No sound at source"
+    }
+  ]
 }
