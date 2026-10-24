@@ -1,8 +1,36 @@
 {
-  "version": 1,
+  "version": 2,
   "mainRoot": null,
   "backupRoot": null,
   "blocked": [],
   "add": [],
-  "playlists": []
+  "playlists": [],
+  "remove": [
+    "Vande Gujarat*",
+    "Vande Gujarat 1",
+    "Vande Gujarat 2",
+    "Vande Gujarat 3",
+    "Vande Gujarat 4",
+    "Vande Gujarat 5",
+    "Vande Gujarat 6",
+    "Vande Gujarat 7",
+    "Vande Gujarat 8",
+    "Vande Gujarat 9",
+    "Vande Gujarat 10",
+    "Vande Gujarat 11",
+    "Vande Gujarat 12",
+    "Vande Gujarat 13",
+    "Vande Gujarat 14",
+    "Vande Gujarat 15",
+    "Vande Gujarat 16"
+  ],
+  "merge": [
+    {
+      "into": "VTV News",
+      "from": [
+        "VTV Gujarati"
+      ]
+    }
+  ],
+  "edit": []
 }
