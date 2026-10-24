@@ -1,11 +1,11 @@
 {
-    "versionCode":  10001,
-    "versionName":  "1.0.1",
-    "notes":  "Merges VTV News and VTV Gujarati into one channel; channel lists can now merge channels and remove by name pattern.",
+    "versionCode":  10000,
+    "versionName":  "1.0.0",
+    "notes":  "Live TV 1.0.0, the first public release.",
     "apk":  "live-tv.apk",
-    "sha256":  "fde1c293191778d234b56b484016fb8def24864bc168380ee98055bfb300272e",
-    "size":  1019768,
-    "sourcesVersion":  2,
+    "sha256":  "1a03b614c6178c48fa890a838ba9f851fa64712508784bf856464bf05d9a5336",
+    "size":  1019440,
+    "sourcesVersion":  3,
     "sourcesUrl":  "sources.json",
-    "sourcesSha256":  "21de400c9b220a18d8367f12b79c63a983a10d9f265e714a19befaf2b489e949"
+    "sourcesSha256":  "b67a100f40cd2ea8f55fe5c79af079de33c4eaa3636157b4605c6816c2c48708"
 }

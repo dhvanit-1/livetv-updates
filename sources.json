@@ -1,11 +1,12 @@
 {
-  "version": 2,
+  "version": 3,
   "mainRoot": null,
   "backupRoot": null,
   "blocked": [],
   "add": [],
   "playlists": [],
   "remove": [
+    "VTV Gujarati",
     "Vande Gujarat*",
     "Vande Gujarat 1",
     "Vande Gujarat 2",
