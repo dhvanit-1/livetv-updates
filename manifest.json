@@ -1,10 +1,10 @@
 {
-    "versionCode":  10000,
-    "versionName":  "1.0.0",
-    "notes":  "Live TV 1.0.0, the first public release.",
+    "versionCode":  10001,
+    "versionName":  "1.0.1",
+    "notes":  "VTV News gets its JTV Go stream back as a backup. Launcher row: choose favourites, frequent, both or off. Channel lists can now add a stream as first, backup or last source.",
     "apk":  "live-tv.apk",
-    "sha256":  "1a03b614c6178c48fa890a838ba9f851fa64712508784bf856464bf05d9a5336",
-    "size":  1019440,
+    "sha256":  "b7f6eb46f912c5d47e6976ca6bed15cbd293b56483dac6a2088c46f656280f55",
+    "size":  1020404,
     "sourcesVersion":  3,
     "sourcesUrl":  "sources.json",
     "sourcesSha256":  "b67a100f40cd2ea8f55fe5c79af079de33c4eaa3636157b4605c6816c2c48708"
