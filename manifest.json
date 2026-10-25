@@ -1,10 +1,10 @@
 {
-    "versionCode":  10001,
-    "versionName":  "1.0.1",
-    "notes":  "VTV News gets its JTV Go stream back as a backup. Launcher row: choose favourites, frequent, both or off. Channel lists can now add a stream as first, backup or last source.",
+    "versionCode":  10002,
+    "versionName":  "1.0.2",
+    "notes":  "Cartoon Network: when the server freezes the stream, Live TV now reconnects in about 10 seconds instead of showing a still picture.",
     "apk":  "live-tv.apk",
-    "sha256":  "b7f6eb46f912c5d47e6976ca6bed15cbd293b56483dac6a2088c46f656280f55",
-    "size":  1020404,
+    "sha256":  "c892561aa4bd2693794e268b6158a411aafc013afa6af3dfac80972a80c10908",
+    "size":  1020800,
     "sourcesVersion":  4,
     "sourcesUrl":  "sources.json",
     "sourcesSha256":  "919d7a4145a054bce8e580a71018342111f9a57b4e1803972556ef9ac7c7c56b"
