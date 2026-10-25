@@ -1,10 +1,10 @@
 {
-    "versionCode":  10002,
-    "versionName":  "1.0.2",
-    "notes":  "Cartoon Network: when the server freezes the stream, Live TV now reconnects in about 10 seconds instead of showing a still picture.",
+    "versionCode":  10003,
+    "versionName":  "1.0.3",
+    "notes":  "Search Live TV channels from the launcher\u0027s search and mic. Hidden channels stay hidden.",
     "apk":  "live-tv.apk",
-    "sha256":  "c892561aa4bd2693794e268b6158a411aafc013afa6af3dfac80972a80c10908",
-    "size":  1020800,
+    "sha256":  "97b31a95d449c1f50681a24c8227889614ba6778a3501fa13352ece1e32093e6",
+    "size":  1021864,
     "sourcesVersion":  4,
     "sourcesUrl":  "sources.json",
     "sourcesSha256":  "919d7a4145a054bce8e580a71018342111f9a57b4e1803972556ef9ac7c7c56b"
