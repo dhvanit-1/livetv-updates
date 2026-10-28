@@ -1,11 +1,11 @@
 {
-    "versionCode":  10003,
-    "versionName":  "1.0.3",
-    "notes":  "Search Live TV channels from the launcher\u0027s search and mic. Hidden channels stay hidden.",
+    "versionCode":  10004,
+    "versionName":  "1.0.4",
+    "notes":  "First-run question about your home screen (launcher features only with the custom launcher). Holding Backspace in search deletes faster the longer you hold. New channel lists now apply right away.",
     "apk":  "live-tv.apk",
-    "sha256":  "97b31a95d449c1f50681a24c8227889614ba6778a3501fa13352ece1e32093e6",
-    "size":  1021864,
-    "sourcesVersion":  4,
+    "sha256":  "5ffe4e945ec3405a52345eab6cbaeaf61ba709dc826835ce87cc7e7cfe592667",
+    "size":  1022932,
+    "sourcesVersion":  6,
     "sourcesUrl":  "sources.json",
-    "sourcesSha256":  "919d7a4145a054bce8e580a71018342111f9a57b4e1803972556ef9ac7c7c56b"
+    "sourcesSha256":  "8e43af9df736874d753764ab42de52d4f7dd6d526728d0e7131af7800f15c17f"
 }

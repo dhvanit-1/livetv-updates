@@ -1,9 +1,208 @@
 {
-  "version": 4,
+  "version": 6,
   "mainRoot": null,
   "backupRoot": null,
   "blocked": [],
-  "add": [],
+  "add": [
+    {
+      "channel": "StarPlus",
+      "country": "in",
+      "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8",
+      "priority": "backup"
+    },
+    {
+      "channel": "Sanskar TV",
+      "country": "in",
+      "url": "https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8",
+      "priority": "backup"
+    },
+    {
+      "channel": "Sanskar TV",
+      "country": "in",
+      "url": "https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8",
+      "priority": "backup"
+    },
+    {
+      "channel": "PTC Punjabi",
+      "country": "in",
+      "url": "https://stream.ottlive.co.in/ptccanada/index.m3u8",
+      "priority": "backup"
+    },
+    {
+      "channel": "Anand TV",
+      "country": "in",
+      "url": "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8",
+      "priority": "backup"
+    },
+    {
+      "channel": "NH BollyFlix",
+      "country": "in",
+      "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8",
+      "priority": "backup"
+    },
+    {
+      "channel": "NH BollyRaga",
+      "country": "in",
+      "url": "https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8",
+      "priority": "backup"
+    },
+    {
+      "channel": "Mr. Bean Animated",
+      "country": "in",
+      "url": "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
+      "priority": "backup"
+    },
+    {
+      "channel": "Green Gold TV",
+      "country": "in",
+      "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8",
+      "priority": "backup"
+    },
+    {
+      "channel": "Green Gold TV",
+      "country": "in",
+      "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8",
+      "priority": "backup"
+    },
+    {
+      "channel": "Star Bharat",
+      "country": "in",
+      "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8",
+      "priority": "first",
+      "languages": [
+        "hin"
+      ],
+      "genres": [
+        "Entertainment"
+      ]
+    },
+    {
+      "channel": "Star Bharat",
+      "country": "in",
+      "url": "https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "priority": "backup",
+      "languages": [
+        "hin"
+      ],
+      "genres": [
+        "Entertainment"
+      ]
+    },
+    {
+      "channel": "Sony Kal",
+      "country": "in",
+      "url": "https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8",
+      "priority": "first",
+      "languages": [
+        "hin"
+      ],
+      "genres": [
+        "Entertainment"
+      ]
+    },
+    {
+      "channel": "Star Vijay",
+      "country": "in",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8",
+      "priority": "first",
+      "languages": [
+        "tam"
+      ],
+      "genres": [
+        "Entertainment"
+      ]
+    },
+    {
+      "channel": "Flowers TV",
+      "country": "in",
+      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8",
+      "priority": "first",
+      "languages": [
+        "mal"
+      ],
+      "genres": [
+        "Entertainment"
+      ]
+    },
+    {
+      "channel": "Magnavision TV",
+      "country": "in",
+      "url": "https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8",
+      "priority": "first",
+      "languages": [
+        "mal"
+      ],
+      "genres": [
+        "Entertainment"
+      ]
+    },
+    {
+      "channel": "C Malayalam TV",
+      "country": "in",
+      "url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8",
+      "priority": "first",
+      "languages": [
+        "mal"
+      ],
+      "genres": []
+    },
+    {
+      "channel": "Kanshi TV",
+      "country": "in",
+      "url": "https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8",
+      "priority": "first",
+      "languages": [
+        "hin"
+      ],
+      "genres": []
+    },
+    {
+      "channel": "Akaal Channel",
+      "country": "in",
+      "url": "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8",
+      "priority": "first",
+      "languages": [
+        "pan"
+      ],
+      "genres": [
+        "Devotional"
+      ]
+    },
+    {
+      "channel": "EET TV",
+      "country": "in",
+      "url": "https://eu.streamjo.com/eetlive/eettv.m3u8",
+      "priority": "first",
+      "languages": [
+        "tam"
+      ],
+      "genres": []
+    },
+    {
+      "channel": "Sivan TV",
+      "country": "in",
+      "url": "https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
+      "priority": "first",
+      "languages": [
+        "tam"
+      ],
+      "genres": [
+        "Devotional"
+      ]
+    },
+    {
+      "channel": "Potta Divine TV",
+      "country": "in",
+      "url": "https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8",
+      "priority": "first",
+      "languages": [
+        "mal"
+      ],
+      "genres": [
+        "Devotional"
+      ]
+    }
+  ],
   "playlists": [],
   "remove": [
     "VTV Gujarati",
