@@ -1,1 +1,2 @@
 * -text
+*.sig linguist-detectable=false
