@@ -1,11 +1,11 @@
 {
-    "versionCode":  10004,
-    "versionName":  "1.0.4",
-    "notes":  "First-run question about your home screen (launcher features only with the custom launcher). Holding Backspace in search deletes faster the longer you hold. New channel lists now apply right away.",
+    "versionCode":  10005,
+    "versionName":  "1.0.5",
+    "notes":  "JioTV channels (through TG TV) as the first source, with ClearKey and a backup path. HD, HD+ and language-named channels are separate. JTV+ badge for JioTV-only channels.",
     "apk":  "live-tv.apk",
-    "sha256":  "5ffe4e945ec3405a52345eab6cbaeaf61ba709dc826835ce87cc7e7cfe592667",
-    "size":  1022932,
-    "sourcesVersion":  6,
+    "sha256":  "0264d12086901b07144c3868390ba58f95449acd4e4d1eeafadf0cea58f38974",
+    "size":  1099236,
+    "sourcesVersion":  7,
     "sourcesUrl":  "sources.json",
-    "sourcesSha256":  "8e43af9df736874d753764ab42de52d4f7dd6d526728d0e7131af7800f15c17f"
+    "sourcesSha256":  "b302460b41650be9bcfec9f56732e5bf268ba9328354ab2452f781205f383222"
 }
