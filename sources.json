@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 12,
   "mainRoot": "https://raw.githubusercontent.com/famelack/famelack-data/main/tv/",
   "backupRoot": null,
   "blocked": [],
@@ -9,7 +9,7 @@
       "country": "in",
       "priority": "first",
       "format": "tgtv",
-      "url": "https://livetgtv.lovable.app/api/public/channels",
+      "url": "https://raw.githubusercontent.com/dhvanit-1/livetv-updates/main/jio-channels.json",
       "resolve": "https://livetgtv.lovable.app/api/public/channels/{id}",
       "backupList": "https://jjtvxweb.pages.dev/jstr4web.json",
       "backupToken": "https://allinonereborn2.online/jstrweb2/cookies.json",
@@ -1003,7 +1003,7 @@
       "source": "lg",
       "priority": "last",
       "format": "m3u",
-      "url": "https://www.apsattv.com/inlg.m3u"
+      "url": "https://raw.githubusercontent.com/dhvanit-1/livetv-updates/main/lg-channels.m3u"
     }
   ],
   "add": [
@@ -1290,12 +1290,6 @@
       ]
     },
     {
-      "into": "History TV18 Hindi NW18",
-      "from": [
-        "HISTORY TV18 - Hindi"
-      ]
-    },
-    {
       "into": "India TV",
       "from": [
         "India TV News"
@@ -1405,6 +1399,375 @@
       "into": "NDTV 24x7",
       "from": [
         "NDTV"
+      ]
+    },
+    {
+      "into": "Colors",
+      "from": [
+        "Colors SD"
+      ]
+    },
+    {
+      "into": "Colors Bangla",
+      "from": [
+        "Colors Bangla SD"
+      ]
+    },
+    {
+      "into": "Colors Infinity",
+      "from": [
+        "Colors Infinity SD"
+      ]
+    },
+    {
+      "into": "Colors Marathi",
+      "from": [
+        "Colors Marathi SD"
+      ]
+    },
+    {
+      "into": "Hindi Hits",
+      "from": [
+        "Hindi Hits SD"
+      ]
+    },
+    {
+      "into": "SET",
+      "from": [
+        "Set SD"
+      ]
+    },
+    {
+      "into": "Sony Marathi",
+      "from": [
+        "Sony Marathi SD"
+      ]
+    },
+    {
+      "into": "Sony Max",
+      "from": [
+        "Sony Max SD"
+      ]
+    },
+    {
+      "into": "Aakaash Aath",
+      "from": [
+        "Aakash Aath"
+      ]
+    },
+    {
+      "into": "Adhyatma TV",
+      "from": [
+        "Adhyatm TV"
+      ]
+    },
+    {
+      "into": "Alankar",
+      "from": [
+        "Alankar TV"
+      ]
+    },
+    {
+      "into": "Aradana TV",
+      "from": [
+        "Aradhana TV"
+      ]
+    },
+    {
+      "into": "Awakening TV",
+      "from": [
+        "Awakening"
+      ]
+    },
+    {
+      "into": "Bhakthi TV",
+      "from": [
+        "Bhakti TV"
+      ]
+    },
+    {
+      "into": "Bhakti Sagar",
+      "from": [
+        "Bhakti Sagar TV"
+      ]
+    },
+    {
+      "into": "Calvary",
+      "from": [
+        "Calvary TV"
+      ]
+    },
+    {
+      "into": "Colors Cineplex Superhits",
+      "from": [
+        "Colors Cineplex Superhit"
+      ]
+    },
+    {
+      "into": "Dangal",
+      "from": [
+        "Dangal TV"
+      ]
+    },
+    {
+      "into": "DD Gyandarshan",
+      "from": [
+        "Gyandarshan"
+      ]
+    },
+    {
+      "into": "DD Sahayadri",
+      "from": [
+        "DD Sahyadri"
+      ]
+    },
+    {
+      "into": "Dharma Sandesh",
+      "from": [
+        "Dharm Sandesh"
+      ]
+    },
+    {
+      "into": "Divya Vani",
+      "from": [
+        "Divyavani TV"
+      ]
+    },
+    {
+      "into": "EPIC TV",
+      "from": [
+        "Epic"
+      ]
+    },
+    {
+      "into": "Flower TV",
+      "from": [
+        "Flowers TV"
+      ]
+    },
+    {
+      "into": "Gangaur",
+      "from": [
+        "Gangaur TV"
+      ]
+    },
+    {
+      "into": "Goodness",
+      "from": [
+        "Goodness TV"
+      ]
+    },
+    {
+      "into": "Hare krsna",
+      "from": [
+        "Hare Krsna TV"
+      ]
+    },
+    {
+      "into": "India News Gujarat",
+      "from": [
+        "India News Gujarati"
+      ]
+    },
+    {
+      "into": "Jantantra",
+      "from": [
+        "Jantantra TV"
+      ]
+    },
+    {
+      "into": "Jinvani Channel",
+      "from": [
+        "Jinvani TV"
+      ]
+    },
+    {
+      "into": "Kairali We",
+      "from": [
+        "Kairali WE TV"
+      ]
+    },
+    {
+      "into": "Mahaa Bhakthi",
+      "from": [
+        "Mahaa Bhakti"
+      ]
+    },
+    {
+      "into": "Maha Movie",
+      "from": [
+        "Maha Movies"
+      ]
+    },
+    {
+      "into": "Mangalmay TV",
+      "from": [
+        "Mangalmay Live"
+      ]
+    },
+    {
+      "into": "MBC",
+      "from": [
+        "MBC TV"
+      ]
+    },
+    {
+      "into": "Media One",
+      "from": [
+        "Media One TV"
+      ]
+    },
+    {
+      "into": "M Nadu",
+      "from": [
+        "M Nadu TV"
+      ]
+    },
+    {
+      "into": "Nambikkai",
+      "from": [
+        "Nambikkai TV"
+      ]
+    },
+    {
+      "into": "Nandighosha",
+      "from": [
+        "Nandighosha TV"
+      ]
+    },
+    {
+      "into": "News X",
+      "from": [
+        "NewsX Live"
+      ]
+    },
+    {
+      "into": "Pasand",
+      "from": [
+        "Pasand TV"
+      ]
+    },
+    {
+      "into": "Peace of Mind",
+      "from": [
+        "Peace of Mind TV"
+      ]
+    },
+    {
+      "into": "Prarthana Bhawan",
+      "from": [
+        "Prarthana Bhawan TV"
+      ]
+    },
+    {
+      "into": "Puthiya Thalaimurai",
+      "from": [
+        "PuthiyathalaimuraiTV",
+        "Puthiya Thalimurai"
+      ]
+    },
+    {
+      "into": "Puthu Yugam",
+      "from": [
+        "Puthuyugam TV"
+      ]
+    },
+    {
+      "into": "Raj Music Kannada",
+      "from": [
+        "Raj Musix Kannada"
+      ]
+    },
+    {
+      "into": "Raj Music Malayalam",
+      "from": [
+        "Raj Musix Malayalam"
+      ]
+    },
+    {
+      "into": "Raj Music Telugu",
+      "from": [
+        "Raj Musix Telugu"
+      ]
+    },
+    {
+      "into": "Rangamanch",
+      "from": [
+        "Rangmanch"
+      ]
+    },
+    {
+      "into": "Rupashi Bangla",
+      "from": [
+        "Rupasi Bangla"
+      ]
+    },
+    {
+      "into": "Sadhna",
+      "from": [
+        "Sadhna TV"
+      ]
+    },
+    {
+      "into": "Sanskar TV",
+      "from": [
+        "Sanskar"
+      ]
+    },
+    {
+      "into": "Santvani",
+      "from": [
+        "Santvani Channel"
+      ]
+    },
+    {
+      "into": "Sarv Dharam Sangam",
+      "from": [
+        "Sarv Dharm Sangam"
+      ]
+    },
+    {
+      "into": "Shemaroo Filmy Gaane",
+      "from": [
+        "Shemaroo Filmi Gaane"
+      ]
+    },
+    {
+      "into": "Subhavaartha TV",
+      "from": [
+        "Subhavartha TV"
+      ]
+    },
+    {
+      "into": "Tarang",
+      "from": [
+        "Tarang TV"
+      ]
+    },
+    {
+      "into": "Vanitha",
+      "from": [
+        "Vanitha TV"
+      ]
+    },
+    {
+      "into": "Vedic",
+      "from": [
+        "Vedic TV"
+      ]
+    },
+    {
+      "into": "Vistaar News",
+      "from": [
+        "Vistara News"
+      ]
+    },
+    {
+      "into": "History TV18 HD Hindi",
+      "from": [
+        "History TV18 HD",
+        "History TV18 Hindi NW18",
+        "HISTORY TV18 - Hindi"
       ]
     }
   ],

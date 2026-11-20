@@ -1,11 +1,11 @@
 {
-    "versionCode":  10007,
-    "versionName":  "1.0.7",
-    "notes":  "Fixes: channels start on their first source again (one refused channel no longer made the app skip that source everywhere), and the JioTV sign-in no longer runs out after two hours.",
-    "apk":  "https://github.com/dhvanit-1/livetv-updates/releases/download/v1.0.7/live-tv.apk",
-    "sha256":  "9663f6d0d3c62719f1498eafb0fa7071ca853e3ad2c3b0b2857617415cd2c72c",
-    "size":  1132586,
-    "sourcesVersion":  10,
+    "versionCode":  10008,
+    "versionName":  "1.0.8",
+    "notes":  "Fixes: scrolling the channel list quickly no longer throws the focus to Search or the filters. The JioTV channels are back on their first source, and more same-name channels are merged.",
+    "apk":  "https://github.com/dhvanit-1/livetv-updates/releases/download/v1.0.8/live-tv.apk",
+    "sha256":  "ced3c87baa98ad62ec40431bebe194d9cd327c7895897367dda1822e029e2f7d",
+    "size":  1132782,
+    "sourcesVersion":  12,
     "sourcesUrl":  "sources.json",
-    "sourcesSha256":  "43387df0d0d69015dd75be0cdbd53842be6961b2c1d09971daa3ec9b9fd8dd8a"
+    "sourcesSha256":  "b9a76b5d5e564214003835813ea208a89177caf0841d81914b60f7315628cde7"
 }
