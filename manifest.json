@@ -1,10 +1,10 @@
 {
-    "versionCode":  10008,
-    "versionName":  "1.0.8",
-    "notes":  "Fixes: scrolling the channel list quickly no longer throws the focus to Search or the filters. The JioTV channels are back on their first source, and more same-name channels are merged.",
-    "apk":  "https://github.com/dhvanit-1/livetv-updates/releases/download/v1.0.8/live-tv.apk",
-    "sha256":  "ced3c87baa98ad62ec40431bebe194d9cd327c7895897367dda1822e029e2f7d",
-    "size":  1132782,
+    "versionCode":  10009,
+    "versionName":  "1.0.9",
+    "notes":  "Fix: when a source fails (for example JioTV saying the channel is not in your plan), the player moves on to the channel\u0027s other sources instead of stopping on the error.",
+    "apk":  "https://github.com/dhvanit-1/livetv-updates/releases/download/v1.0.9/live-tv.apk",
+    "sha256":  "67bf1f82d9a05f091cd9a4df02b98adb779226b254f46093ecdb91ad0cb4a48e",
+    "size":  1132690,
     "sourcesVersion":  12,
     "sourcesUrl":  "sources.json",
     "sourcesSha256":  "b9a76b5d5e564214003835813ea208a89177caf0841d81914b60f7315628cde7"
